@@ -5,9 +5,8 @@ Quan la població arriba a 10, s’activa automàticament el mètode estàtic `F
 Exercici per practicar classes, propietats estàtiques i mètodes estàtics en JavaScript.
 
 ## 🚀 Com executar-ho
-```bash
-node index.js
-```
+1. Clona el projecte.
+2. Executa ```saiyan.js```
 
 ## 🛠️ Tecnologies
 - JavaScript
